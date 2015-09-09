@@ -1,0 +1,4 @@
+src/main/resources/keystore.jks
+src/main/resources/key.cert
+src/main/resources/data.sign
+
